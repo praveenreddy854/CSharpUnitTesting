@@ -1,0 +1,8 @@
+D:\Personal\000000000Study\Startup Projects\Test\AutomatedUnitTestingForConsoleApp\MyConsoleApp\bin\Debug\MyConsoleApp.exe.config
+C:\Users\atarek\Desktop\AutomatedUnitTestingForConsoleApp\MyConsoleApp\bin\Debug\MyConsoleApp.exe.config
+C:\Users\atarek\Desktop\AutomatedUnitTestingForConsoleApp\Bad\MyConsoleApp\bin\Debug\MyConsoleApp.exe.config
+C:\Users\atarek\Desktop\AutomatedUnitTestingForConsoleApp\Bad\MyConsoleApp\bin\Debug\MyConsoleApp.exe
+C:\Users\atarek\Desktop\AutomatedUnitTestingForConsoleApp\Bad\MyConsoleApp\bin\Debug\MyConsoleApp.pdb
+C:\Users\atarek\Desktop\AutomatedUnitTestingForConsoleApp\Bad\MyConsoleApp\obj\Debug\MyConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\atarek\Desktop\AutomatedUnitTestingForConsoleApp\Bad\MyConsoleApp\obj\Debug\MyConsoleApp.exe
+C:\Users\atarek\Desktop\AutomatedUnitTestingForConsoleApp\Bad\MyConsoleApp\obj\Debug\MyConsoleApp.pdb
