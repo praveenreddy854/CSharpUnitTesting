@@ -49,6 +49,7 @@ This is sample code to demonstrate how to adjust your console app design and arc
 
 ## Related Links:
 * [Development Simply Put Blog Post](http://developmentsimplyput.blogspot.com/2018/03/tdd-and-automated-unit-testing-for.html)
+* [LinkedIn Article](https://www.linkedin.com/pulse/tdd-automated-unit-testing-console-application-ahmed-tarek-hasan)
 * [Development Simply Put Blog Post: What is TDD and Automated Unit Testing Part 1](http://developmentsimplyput.blogspot.com/2018/01/what-is-tdd-and-automated-unit-testing.html)
 * [Development Simply Put Blog Post: What is TDD and Automated Unit Testing Part 2](http://developmentsimplyput.blogspot.com/2018/01/what-is-tdd-and-automated-unit-testing_28.html)
 * [Development Simply Put Blog Post: What is TDD and Automated Unit Testing Part 3](http://developmentsimplyput.blogspot.com/2018/02/what-is-tdd-and-automated-unit-testing.html)
