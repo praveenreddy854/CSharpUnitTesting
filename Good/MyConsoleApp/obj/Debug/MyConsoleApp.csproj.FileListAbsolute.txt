@@ -1,0 +1,11 @@
+C:\projects\csharp\AutomatedUnitTestingForConsoleApp\Good\MyConsoleApp\bin\Debug\MyConsoleApp.exe.config
+C:\projects\csharp\AutomatedUnitTestingForConsoleApp\Good\MyConsoleApp\bin\Debug\MyConsoleApp.exe
+C:\projects\csharp\AutomatedUnitTestingForConsoleApp\Good\MyConsoleApp\bin\Debug\MyConsoleApp.pdb
+C:\projects\csharp\AutomatedUnitTestingForConsoleApp\Good\MyConsoleApp\bin\Debug\Ninject.dll
+C:\projects\csharp\AutomatedUnitTestingForConsoleApp\Good\MyConsoleApp\bin\Debug\Ninject.xml
+C:\projects\csharp\AutomatedUnitTestingForConsoleApp\Good\MyConsoleApp\obj\Debug\MyConsoleApp.csproj.AssemblyReference.cache
+C:\projects\csharp\AutomatedUnitTestingForConsoleApp\Good\MyConsoleApp\obj\Debug\MyConsoleApp.csproj.SuggestedBindingRedirects.cache
+C:\projects\csharp\AutomatedUnitTestingForConsoleApp\Good\MyConsoleApp\obj\Debug\MyConsoleApp.csproj.CoreCompileInputs.cache
+C:\projects\csharp\AutomatedUnitTestingForConsoleApp\Good\MyConsoleApp\obj\Debug\MyConsoleApp.csproj.CopyComplete
+C:\projects\csharp\AutomatedUnitTestingForConsoleApp\Good\MyConsoleApp\obj\Debug\MyConsoleApp.exe
+C:\projects\csharp\AutomatedUnitTestingForConsoleApp\Good\MyConsoleApp\obj\Debug\MyConsoleApp.pdb

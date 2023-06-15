@@ -1,29 +1,40 @@
-﻿using ConsoleManager;
-using Ninject;
-using System;
-using System.Collections.Generic;
+﻿using System;
 using System.Linq;
-using System.Reflection;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace MyConsoleApp
 {
     class Program
     {
-        #region Fields
-        private static ProgramManager programManager = null;
-        private static IConsoleManager consoleManager = null;
-        #endregion
-
+       
         static void Main(string[] args)
         {
-            StandardKernel kernel = new StandardKernel();
-            kernel.Load(Assembly.GetExecutingAssembly());
-            consoleManager = kernel.Get<IConsoleManager>();
-            
-            programManager = new ProgramManager(consoleManager);
-            programManager.Run(args);
+            Program p = new Program();
+            Console.Write(p.GetPerson("John"));
         }
+
+        public Person GetPerson(string name)
+        {
+            // Create person array
+            Person[] people = new Person[2];
+
+            people[0] = new Person(30, "John");
+            people[1] = new Person(25, "Jane");
+
+            return people.Where(p => p.Name == name).FirstOrDefault();
+        }
+
+        
+    }
+
+    public class Person
+    {
+        public Person(int age, string name)
+        {
+            this.Age = age;
+            this.Name = name;
+        }
+
+        public int Age { get; private set; }
+        public string Name { get; private set; }
     }
 }
